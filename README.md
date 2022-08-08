@@ -11,5 +11,5 @@
 
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram-5c12a6?style=for-the-badge&logo=telegram&logoColor=00e1ff)](t.me/ZeRa2ll)
+[![Telegram](https://img.shields.io/badge/-Telegram-5c12a6?style=for-the-badge&logo=telegram&logoColor=00e1ff)](https://t.me/ZeRa2ll)
 [![VK](https://img.shields.io/badge/-VKontakte-5c12a6?style=for-the-badge&logo=vk&logoColor=00e1ff)](https://vk.com/ackermanlev1)
